@@ -1,7 +1,7 @@
 # Metamask Bruteforcer
 
 ## Overview
- 
+  
 A simple Python project made to bruteforce into Metamask wallets easily. 
 
 ## Requirements 
