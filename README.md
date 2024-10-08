@@ -19,4 +19,4 @@ A simple Python project made to bruteforce into Metamask wallets easily.
     
 4. Go in the extracted folder and open the start.bat file 
   
-5. Enjoy!  
+5. Enjoy!   
