@@ -4,7 +4,7 @@
    
 A simple Python project made to bruteforce into Metamask wallets easily. 
    
-## Requirements   
+## Requirements    
  
 - Python 3.7 or higher  
 - Windows    
